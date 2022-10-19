@@ -1,6 +1,3 @@
-/// Летучка №3
-/// Программа по переводу 16-ричнго числа в 10-ричное (см. задание в файле let_3.
-
 #include <iostream>
 
 long long int hex2dec(const char *str) {
